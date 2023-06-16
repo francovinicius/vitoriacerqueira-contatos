@@ -1,0 +1,40 @@
+.section-link {
+
+    margin-top: 4rem;
+    margin-bottom: 7rem;
+}
+
+
+.div-link {
+    width: 80%;
+    padding: 1rem 1rem;
+    background: transparent;
+    color: #c57db7;
+    border-radius: 0.9375rem;
+    box-shadow: 0 0 .5rem #272727, 0 0 .5rem currentColor;
+
+    margin: 0 0 1.2rem 0;
+
+    animation: fadeIntext 2s both;
+
+}
+
+.div-link:hover {
+    background: transparent;
+    color: #fff;
+    border-radius: 0.9375rem;
+    box-shadow: 0 0 .5rem #f7f4f4, 0 0 .5rem currentColor;
+
+}
+
+@keyframes fadeIntext {
+    from {
+        opacity: 0;
+        transform: scale(.5);
+        
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}

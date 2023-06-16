@@ -1,0 +1,30 @@
+.div-apresentacao {
+    margin-top: 3rem;
+}
+.p-apresentacao {
+    width: 90%;
+    margin: 1rem 0;
+    opacity: .6;
+}
+
+h6 {
+    margin: 2rem 0;
+}
+
+
+p {
+    color: #bde0ee;
+    animation: fadeIntext 2s both;
+  }
+
+  @keyframes fadeIntext {
+    from {
+        opacity: 0;
+        transform: scale(.5);
+        
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
