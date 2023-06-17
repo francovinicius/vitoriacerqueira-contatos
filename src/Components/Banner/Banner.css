@@ -7,7 +7,7 @@
 }
 
 h3 {
-    color: #d1d0d0;
+    color: #eceaea;
     font-weight: bold;
     text-shadow: 0 0 .1rem #f8f8f8, 0 0 1rem currentColor;
     animation: fadeIntext 2s both;
@@ -21,7 +21,7 @@ h3 {
 }
 
 .nav-link {
-    color:#fafafa;
+    color:#ffffff;
     font-weight: bold;
 }
 
