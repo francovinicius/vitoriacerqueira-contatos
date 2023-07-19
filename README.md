@@ -1,73 +1,36 @@
-# Projeto - Cartão de visita
+# Projeto - Vitória Cerqueira Contatos
 
-Este projeto visa a criação de um cartão de visitas com os principais links e formulário para contato
+O projeto Vitória Cerqueira Contatos é uma aplicação desenvolvida em React para fornecer uma página de contatos onde os usuários podem encontrar as informações de contato da Vitória Cerqueira. A aplicação pode ser acessada através do link [https://vitoriacerqueira-contatos.vercel.app/](https://vitoriacerqueira-contatos.vercel.app/).
 
-## Introdução ao Create React App
+## Tecnologias Utilizadas
+- React
 
-Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+## Descrição do Projeto
 
-## Scripts Disponíveis
+O Vitória Cerqueira Contatos é um projeto criado para apresentar as informações de contato da Vitória Cerqueira, permitindo que os usuários encontrem facilmente os meios de entrar em contato com ela. A aplicação utiliza a biblioteca React para criar uma página elegante e intuitiva.
 
-No diretório do projeto, você pode executar:
+### Funcionalidades
 
-### `npm start`
-Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+A aplicação possui as seguintes características:
 
-A página será recarregada quando você fizer alterações.
-Você também pode ver erros de lint no console.
+- Exibição das informações de contato da Vitória Cerqueira, como endereço de e-mail, número de telefone e perfis de mídia social.
+- Interface responsiva que se adapta a diferentes dispositivos e tamanhos de tela.
+- Navegação fácil e intuitiva para acessar as informações de contato desejadas.
 
-### `npm test`
+## Como Executar o Projeto Localmente
 
-Inicia o executor de teste no modo de observação interativo.
-Consulte a seção sobre como [executar testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
+Para executar o projeto localmente, siga as etapas abaixo:
 
-### `npm run build`
+1. Faça o clone deste repositório em sua máquina local ou baixe o código-fonte do projeto.
 
-Cria o aplicativo para produção na `build` pasta.\
-Ele empacota corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
+2. Navegue até o diretório raiz do projeto.
 
-A compilação é minificada e os nomes dos arquivos incluem os hashes.
-Seu aplicativo está pronto para ser implantado!
+3. Abra um terminal e execute o comando `npm install` para instalar as dependências do projeto.
 
-Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
+4. Execute o comando `npm start` para iniciar a aplicação localmente.
 
-### `npm run eject`
+5. Acesse [http://localhost:3000](http://localhost:3000) em seu navegador para visualizar o projeto Vitória Cerqueira Contatos.
 
-**Nota: esta é uma operação unidirecional. Uma vez que você `eject`, você não pode voltar atrás!**
+## Contribuição
 
-Se você não estiver satisfeito com a ferramenta de compilação e as opções de configuração, poderá fazê-lo `eject` a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
-
-Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto `eject` , ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto você está por conta própria.
-
-Você não precisa nunca usar `eject`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estivesse pronto para ela.
-
-## Saber Mais
-
-Você pode aprender mais na [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-Para aprender React, confira a [React documentation](https://reactjs.org/).
-
-### Divisão de código
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analisando o tamanho do pacote
-
-Esta seção foi movida para cá: : [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Fazendo um Progressive Web App
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Configuração avançada
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Implantação
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` falha em minificar
-
-Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contribuições para a melhoria deste projeto são bem-vindas. Se você tiver sugestões, correções de bugs ou novas ideias, fique à vontade para enviar pull requests ou abrir issues neste repositório.
