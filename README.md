@@ -2,35 +2,32 @@
 
 O projeto Vitória Cerqueira Contatos é uma aplicação desenvolvida em React para fornecer uma página de contatos onde os usuários podem encontrar as informações de contato da Vitória Cerqueira. A aplicação pode ser acessada através do link [https://vitoriacerqueira-contatos.vercel.app/](https://vitoriacerqueira-contatos.vercel.app/).
 
-## Tecnologias Utilizadas
-- React
+### Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- ReactJS
 
-## Descrição do Projeto
+## Funcionalidades
+- Apresentação das informações do usuário, como nome, cargo, e-mail e telefone
+- Links para as redes sociais do usuário, como LinkedIn, Twitter e GitHub
+- Formulário de contato com campos para nome, e-mail, telefone e mensagem
+- Botão de envio do formulário, que deve validar os campos e enviar as informações por e-mail para o usuário
 
-O Vitória Cerqueira Contatos é um projeto criado para apresentar as informações de contato da Vitória Cerqueira, permitindo que os usuários encontrem facilmente os meios de entrar em contato com ela. A aplicação utiliza a biblioteca React para criar uma página elegante e intuitiva.
+## Instruções de Uso
 
-### Funcionalidades
+1. Faça o clone do repositório para sua máquina local.
+2. Certifique-se de ter o Node.js instalado.
+3. No diretório raiz do projeto, execute o seguinte comando para instalar as dependências: 
+4. Após a instalação das dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento:
+5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar a aplicação.
 
-A aplicação possui as seguintes características:
+## Saber Mais
 
-- Exibição das informações de contato da Vitória Cerqueira, como endereço de e-mail, número de telefone e perfis de mídia social.
-- Interface responsiva que se adapta a diferentes dispositivos e tamanhos de tela.
-- Navegação fácil e intuitiva para acessar as informações de contato desejadas.
-
-## Como Executar o Projeto Localmente
-
-Para executar o projeto localmente, siga as etapas abaixo:
-
-1. Faça o clone deste repositório em sua máquina local ou baixe o código-fonte do projeto.
-
-2. Navegue até o diretório raiz do projeto.
-
-3. Abra um terminal e execute o comando `npm install` para instalar as dependências do projeto.
-
-4. Execute o comando `npm start` para iniciar a aplicação localmente.
-
-5. Acesse [http://localhost:3000](http://localhost:3000) em seu navegador para visualizar o projeto Vitória Cerqueira Contatos.
+Para saber mais sobre o React e suas funcionalidades, consulte a [documentação oficial do React](https://reactjs.org/).<br>
+Para aprender mais sobre o uso do useEffect e useState, confira a [documentação do React Hooks](https://reactjs.org/docs/hooks-intro.html).
 
 ## Contribuição
 
-Contribuições para a melhoria deste projeto são bem-vindas. Se você tiver sugestões, correções de bugs ou novas ideias, fique à vontade para enviar pull requests ou abrir issues neste repositório.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
